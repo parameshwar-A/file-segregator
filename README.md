@@ -8,5 +8,5 @@ This was written by myself(Parameshwar Arunachalam) as a small milestone project
 
 If you want to work on it, Just fork it and have fun.
 
-Also if you find any bugs please let me know here or you can [mail me](parameshwar273@gmail.com)
+Also if you find any bugs please let me know here or you can [mail me](mailto:parameshwar273@gmail.com)
 
