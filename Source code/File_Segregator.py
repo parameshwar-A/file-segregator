@@ -257,3 +257,5 @@ Contact me at stark20236@gmail.com'''
 devname = tk.Label(fs, text=devmsg,font=('sans-serif',10),fg='blue').pack(pady=10)
 fs.mainloop()
 
+
+
